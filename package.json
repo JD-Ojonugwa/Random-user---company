@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
